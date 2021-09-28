@@ -70,13 +70,6 @@
   background-color: #2f80ed;
   z-index: 0;
 }
-
-.table__cell_theme_dark {
-  width: 200px;
-  color: white;
-  margin-right: 0;
-  margin-top: 80px;
-}
 .description{
   display: flex;
   margin-top: 100px;
@@ -242,6 +235,7 @@ z-index: 1;
 .table__cell_theme_dark{
 width: 200px;
 margin: 80px 0 0 0;
+color: white;
 z-index: 1;
 }
 .table__heading_theme_dark{
