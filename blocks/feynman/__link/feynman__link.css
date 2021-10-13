@@ -7,10 +7,10 @@
   right: 48px;
   color: #2f80ed;
   text-decoration: none;
+  transition: all 1s ease;
   z-index: 1;
 }
 
 .feynman__link:hover {
   opacity: 0.5;
-  transition: all 1s ease;
 }
