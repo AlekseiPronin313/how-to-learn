@@ -1,5 +1,5 @@
 .techniques {
-  width: 80%;
+  min-width: 80%;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
